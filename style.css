@@ -2,4 +2,16 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    font-size: 2em;
+}
+.create-btn{
+  background-color: #28a745; /* green background */
+  color: white;              /* white text */
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.create-btn:hover {
+  background-color: #218838;
 }
